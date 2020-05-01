@@ -25,7 +25,7 @@ se desarrollo gracias a la [documentacion oficial](https://laravel.com/docs).
 ## Puesta en Marcha
 1. Clonamos el repo : 
     ```sh
-    $ git clone https://github.com/MelissaEscobar/egresadosUTP 
+    $ git clone https://github.com/EgresadosUTP/EgresadosUTP-egresadosExperimental-
     ```
 2. Ingresamos a la carpeta y realizamos la instalacion de las dependencias con composer
     ```sh
